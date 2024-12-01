@@ -16,3 +16,5 @@ heart_matrix = [
     [0, 0, 1, 1, 1, 0, 0],
     [0, 0, 0, 1, 0, 0, 0]
     ]
+
+love_text = "I love you, my love!"
