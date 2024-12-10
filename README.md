@@ -16,3 +16,8 @@ $ pip install -r requirements.txt
 $ python3 __main__.py
 ```
 
+Зайти в чат и прописать:
+```sh
++heart
+```
+
